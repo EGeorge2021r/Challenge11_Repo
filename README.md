@@ -12,11 +12,11 @@ Reason: Want to find out if the ability to predict search traffic can translate 
 # General information 
 In a bid to drive revenue, a Jupyter notebook will be produced that contains data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments will also be used to document findings, and answer the question prompts in the instructions.
 The deliverables will include the following:
-•	Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
-•	An evaluation of how the company’s stock price correlates to its Google Search traffic.
-•	A Prophet forecast model that can predict hourly user search traffic.
-•	Answers to questions in the instructions that you write in your Jupyter Notebook.
-•	(Optional) A plot of a forecast for the company’s future revenue.
+•Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
+•An evaluation of how the company’s stock price correlates to its Google Search traffic.
+•A Prophet forecast model that can predict hourly user search traffic.
+•Answers to questions in the instructions that you write in your Jupyter Notebook.
+•(Optional) A plot of a forecast for the company’s future revenue.
 
 # Technology
 Jupyter notebook that contains data preparation, analysis, and visualizations 
