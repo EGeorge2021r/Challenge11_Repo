@@ -1,0 +1,50 @@
+   86  ~
+   87  tech_stocks_python.py
+   88  pwd
+   89  cd 02_listing_Assets
+   90  ~
+   91  ls
+   92  cd FINTECH WORKSPACE
+   93  cd ~
+   94  ls
+   95  conda deactivate
+   96  ls
+   97  cd OneDrive
+   98  cd desktop
+   99  cd Fintech\ workspace/
+  100  cd _Mar
+  101  cd 02_Listing_Assets/
+  102  cd Unsolved/
+  103  python listing_assets.py
+  104  python listing_assets.py
+  105  python actors_python.py
+  106  python The_401k_shuffle.py
+  107  ls
+  108  pwd
+  109  cd fintech_workspace
+  110  ~
+  111  coda deactivate
+  112  conda deactivate
+  113  ~
+  114  ~
+  115  pwd
+  116  cd one
+  117  exit
+  118  cd OneDrive
+  119  cd Desktop/
+  120  Ccd Fintech/
+  121  cd Fintech/
+  122  cd Challenge11_Repo/
+  123  conda activate pyviz
+  124  code .
+  125  git add -A
+  126  git commit -m "Review and updates of codes and visualizations  in sections 1-4"
+  127  git push origin main
+  128  git add -A
+  129  git commit -m "Commit updates steps 1-4"
+  130  git push origin main
+  131  git add -A
+  132  git commit -m " Final updates and rerun of all codes sections 1-4"
+  133  git push origin main
+  134  git pull origin main
+  135  history 50 >terminal_history.txt
